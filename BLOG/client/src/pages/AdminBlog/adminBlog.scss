@@ -1,0 +1,18 @@
+.admin-page-wrapper {
+    padding-top: 40px;
+
+    .admin-pagination {
+        width: 300px;
+        height: 40px;
+        display: flex;
+        margin: auto;
+    }
+
+    .admin-text-page {
+        font-size: 30px;
+        width: 250px;
+        text-align: center;
+        font-weight: bold;
+        margin: 0px;
+    }
+}
